@@ -5,8 +5,6 @@
  */
 package mypackage;
 
-import java.util.Arrays;
-
 /**
  *
  * @author Paul
